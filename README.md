@@ -104,3 +104,12 @@ Se tiver algum beacon HolyIot similar e quiser ajudar com a decodificação de o
 ## 📃 Licença
 Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
 
+---
+## 📌 Sobre o autor
+
+**William Costa Ferreira**  
+💼 Desenvolvedor Full Stack  
+🌎 Brasil
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/william-costa-ferreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-costa-ferreira-9238b927/)
